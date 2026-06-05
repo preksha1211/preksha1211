@@ -66,11 +66,9 @@ Real-time messaging app with instant communication, media sharing, and Google OA
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=preksha1211&show_icons=true&theme=tokyonight" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=preksha1211&layout=compact&theme=tokyonight" height="160"/>
-</p>
+![Preksha's GitHub stats](https://github-readme-stats.vercel.app/api?username=preksha1211&show_icons=true&theme=tokyonight)
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=preksha1211&layout=compact&theme=tokyonight)
 ---
 
 ### 🏆 Achievements
