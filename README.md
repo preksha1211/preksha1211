@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Preksha Gupta 👋</h1>
 
 <p align="center">
-  <b>Full-Stack Developer | MERN Stack | Frontend Enthusiast</b><br/>
+  <b>Full-Stack Developer | MERN Stack | SDE Enthusiast</b><br/>
   B.Tech CSE @ GLA University | LeetCode 1621 Rating | 600+ Problems Solved
 </p>
 
@@ -74,5 +74,5 @@ Real-time messaging app with instant communication, media sharing, and Google OA
 ---
 
 <p align="center">
-  <i>Open to frontend & full-stack opportunities! Let's connect 🚀</i>
+  <i>🎯 Targeting SDE roles in product-based companies 🚀</i>
 </p>
